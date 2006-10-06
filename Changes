@@ -1,0 +1,6 @@
+Revision history for Perl extension CAPI.
+
+0.01  Thu Jan  8 03:08:21 2004
+	- original version; created by h2xs 1.21 with options
+		-O -a -n CAPI -p CSDK_ -x ctapi.h -L ./lib -lcapi -lclntsh -lctcore
+
