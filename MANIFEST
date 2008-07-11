@@ -1,7 +1,6 @@
 CAPI.pm
 CAPI.xs
 Changes
-ctapi.h
 Makefile.PL
 MANIFEST
 README

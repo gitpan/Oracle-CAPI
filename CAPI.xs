@@ -1,9 +1,5 @@
 /*
 #
-# Copyright (C) 2004-2005 Reed Sandberg (reed_sandberg@yahoo.com).
-# Written by Reed Sandberg, 1500 Hillside Dr #7, Burlingame, CA 94010, USA
-# All rights reserved, reproduction in full or in part is forbidden except by express permission of author.
-#
 */
 
 #include "EXTERN.h"

@@ -308,7 +308,7 @@ our @EXPORT = qw(
 	STREAM_INITIALIZER
 	USE_OLD_NAMES
 );
-our $VERSION = '0.01';
+our $VERSION = '1.03';
 
 sub AUTOLOAD {
     # This AUTOLOAD is used to 'autoload' constants from the constant()
@@ -769,7 +769,7 @@ There are many other functions available (see CAPI.xs), those not documented her
 
 =head1 AUTHOR
 
-Reed Sandberg (reed_sandberg 'AT' yahoo dot com)
+Reed Sandberg, E<lt>reed_sandberg Ӓ yahooE<gt>
 
 =head1 SEE ALSO
 
